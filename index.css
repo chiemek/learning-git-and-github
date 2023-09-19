@@ -129,3 +129,12 @@ small,
 .text_small {
   font-size: 0.8rem;
 }
+
+.log-container img {
+  max-width: 100px;
+}
+
+.log-container {
+  display: flex;
+  align-items: center;
+}
